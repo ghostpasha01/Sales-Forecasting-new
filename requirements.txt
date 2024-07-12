@@ -1,0 +1,9 @@
+numpy==1.23.5
+pandas==1.5.2
+matplotlib==3.6.2
+scikit-learn==1.2.0
+pygam==0.8.0
+seaborn==0.12.1
+redshift_connector==2.0.909
+projectpro
+git+https://github.com/scikit-learn-contrib/py-earth@v0.2dev
